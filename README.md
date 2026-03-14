@@ -1,1 +1,18 @@
-# Gen--Z-Career-Aspirations
+# Gen-Z-Career-Aspirations
+## Project Objective
+Analyze company sales data to identify profit trends, top products and business performance.
+## Tools Used
+* Power BI
+* Excel
+## Key Analysis
+* Gender vs Profit
+* Top selling cycle models
+* Sales trend vs customers
+* Brand vs profit
+* Average profit vs transaction
+## Key Insights
+* Bikes generated highest revenue
+* Female stands on the top with most number of orders 
+* October month has the highest profit
+## Business Requirement
+Analyzing customer data to optimize marketing strategies and maximize profit. 
