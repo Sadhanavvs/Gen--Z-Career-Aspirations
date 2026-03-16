@@ -1,18 +1,18 @@
 # Gen-Z-Career-Aspirations
 ## Project Objective
-Analyze company sales data to identify profit trends, top products and business performance.
+Analyze survey data to understand the career preferences, priorities and expectations of Gen-Z
 ## Tools Used
 * Power BI
 * Excel
 ## Key Analysis
-* Gender vs Profit
-* Top selling cycle models
-* Sales trend vs customers
-* Brand vs profit
-* Average profit vs transaction
-## Key Insights
-* Bikes generated highest revenue
-* Female stands on the top with most number of orders 
-* October month has the highest profit
-## Business Requirement
-Analyzing customer data to optimize marketing strategies and maximize profit. 
+* Factors influencing career aspirations
+* Higher education outside India
+* Preferred work environment
+* Work with company with recent layoffs
+* Willingness to work if mission aligned to public 
+## Key Insights 
+* Strong preference for remote or hybrid work
+* Work-life balance ranked higher than salary
+* Parents role in career path
+## Business Impact
+Companies should focus on flexible work models, career growth oppurtunities and skill development programs.
