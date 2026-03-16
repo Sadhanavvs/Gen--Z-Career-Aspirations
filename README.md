@@ -16,3 +16,5 @@ Analyze survey data to understand the career preferences, priorities and expecta
 * Parents role in career path
 ## Business Impact
 Companies should focus on flexible work models, career growth oppurtunities and skill development programs.
+## Dataset
+- <a href="https://github.com/Sadhanavvs/Gen--Z-Career-Aspirations/blob/main/GenZ%20-%20Career%20Aspirations%20Data%20(3).xlsx>Genz data</a>
